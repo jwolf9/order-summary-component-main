@@ -6,4 +6,8 @@
 .attribution a {
   color: #3e52a3;
 }
+
+body {
+  background-image: url(../images/pattern-background-desktop.svg);
+}
 /*# sourceMappingURL=style.css.map */
