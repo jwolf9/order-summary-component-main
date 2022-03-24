@@ -24,7 +24,24 @@ body {
           flex-direction: column;
 }
 
+.card {
+  position: relative;
+  max-width: 350px;
+  height: 550px;
+  border-radius: 10px;
+  background-color: white;
+  -webkit-box-shadow: 0px 3px 20px 5px #afafb1;
+          box-shadow: 0px 3px 20px 5px #afafb1;
+}
+
+.illustration-hero {
+  border-radius: 10px 10px 0px 0px;
+  max-width: 350px;
+}
+
 .attribution {
+  position: relative;
+  top: 20px;
   font-size: 11px;
   text-align: center;
 }
