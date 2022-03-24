@@ -29,6 +29,22 @@ body {
   max-width: 350px;
 }
 
+.title {
+  position: relative;
+  top: 10px;
+  font-weight: 900;
+  text-align: center;
+  font-size: 2.2rem;
+  color: hsl(223, 47%, 23%);
+}
+
+.description {
+  position: relative;
+  top: 20px;
+  text-align: center;
+  color: hsl(224, 23%, 55%);
+}
+
 .attribution {
   position: relative;
   top: 20px;
