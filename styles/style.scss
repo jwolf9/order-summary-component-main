@@ -1,11 +1,21 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-image: url(../images/pattern-background-desktop.svg);
+  font-size: 1.6rem;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
 .attribution {
   font-size: 11px; text-align: center;
 }
 
 .attribution a {
   color: hsl(228, 45%, 44%);
-}
-
-body {
-  background-image: url(../images/pattern-background-desktop.svg);
 }
