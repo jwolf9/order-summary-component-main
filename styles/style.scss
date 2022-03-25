@@ -80,6 +80,11 @@ body {
   position: relative;
   left: 210px;
   top: -65px;
+  border: none;
+  background-color: transparent;
+  color: hsl(245, 75%, 52%);
+  font-weight: 700;
+  text-decoration: underline;
 }
 
 .attribution {
