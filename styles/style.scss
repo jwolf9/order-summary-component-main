@@ -31,7 +31,7 @@ body {
 
 .title {
   position: relative;
-  top: 10px;
+  top: 30px;
   font-weight: 900;
   text-align: center;
   font-size: 2.2rem;
@@ -40,9 +40,46 @@ body {
 
 .description {
   position: relative;
-  top: 20px;
+  top: 50px;
   text-align: center;
   color: hsl(224, 23%, 55%);
+}
+
+.plan-container {
+  position: relative;
+  top: 70px;
+  left: 25px;
+  background-color: hsl(225, 100%, 98%);
+  max-width: 300px;
+  max-height: 90px;
+  border-radius: 10px;
+}
+
+.music-icon {
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+.plan-description {
+  position: relative;
+  left: 80px;
+  top: -35px;
+  color: hsl(223, 47%, 23%);
+  font-weight: 700;
+}
+
+.plan-cost {
+  position: relative;
+  left: 80px;
+  top: -25px;
+  color: hsl(224, 23%, 55%);
+}
+
+.change-button {
+  position: relative;
+  left: 210px;
+  top: -65px;
 }
 
 .attribution {
