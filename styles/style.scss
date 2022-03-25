@@ -87,10 +87,21 @@ body {
   text-decoration: underline;
 }
 
+.payment-button {
+  position: relative;
+  top: 90px;
+}
+
+.cancel-button {
+  position: relative;
+  top: 150px;
+}
+
 .attribution {
   position: relative;
   top: 20px;
-  font-size: 11px; text-align: center;
+  font-size: 11px;
+  text-align: center;
 }
 
 .attribution a {
