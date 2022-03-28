@@ -100,11 +100,18 @@ body {
 .payment-button {
   position: relative;
   top: 90px;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
+  background-color: #3829e0;
 }
 
 .cancel-button {
   position: relative;
-  top: 150px;
+  top: 110px;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
 }
 
 .attribution {
