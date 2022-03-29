@@ -27,7 +27,7 @@ body {
 .card {
   position: relative;
   max-width: 350px;
-  height: 550px;
+  height: 570px;
   border-radius: 10px;
   background-color: white;
   -webkit-box-shadow: 0px 3px 20px 5px #afafb1;
@@ -120,12 +120,21 @@ body {
           box-shadow: 0px 11px 20px 5px #bebec0;
 }
 
-.cancel-button {
+.cancel-button-container {
   position: relative;
   top: 110px;
+}
+
+.cancel-button {
+  position: relative;
   left: 50%;
   -webkit-transform: translate(-50%);
           transform: translate(-50%);
+  color: #7280a7;
+  background-color: transparent;
+  border: none;
+  font-weight: 700;
+  font-size: small;
 }
 
 .attribution {
