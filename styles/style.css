@@ -97,10 +97,17 @@ body {
   text-decoration: underline;
 }
 
+.change-button:hover {
+  text-decoration: none;
+  opacity: 0.7;
+  -webkit-transition: 1s;
+  transition: 1s;
+  cursor: pointer;
+}
+
 .payment-button-container {
   position: relative;
   top: 90px;
-  max-width: 350px;
 }
 
 .payment-button {
@@ -120,6 +127,13 @@ body {
           box-shadow: 0px 11px 20px 5px #bebec0;
 }
 
+.payment-button:hover {
+  opacity: 0.7;
+  -webkit-transition: 1s;
+  transition: 1s;
+  cursor: pointer;
+}
+
 .cancel-button-container {
   position: relative;
   top: 110px;
@@ -135,6 +149,13 @@ body {
   border: none;
   font-weight: 700;
   font-size: small;
+}
+
+.cancel-button:hover {
+  color: #1f2f56;
+  -webkit-transition: 1s;
+  transition: 1s;
+  cursor: pointer;
 }
 
 .attribution {
