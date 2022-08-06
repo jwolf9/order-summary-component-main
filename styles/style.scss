@@ -13,6 +13,9 @@ html {
 
 body {
   background-image: url(../images/pattern-background-desktop.svg);
+  background-color: $pale-blue;
+  background-repeat: no-repeat;
+  background-size: 100%;
   font-size: 1.6rem;
   font-family: 'Red Hat Display', sans-serif;
   font-weight: 500;
