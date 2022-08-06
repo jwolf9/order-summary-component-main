@@ -14,8 +14,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -46,9 +44,6 @@ Users should be able to:
 
 I learned how to format background images. How to make the image not repeat and add colors for a filtered effect
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 body {
   background-image: url(../images/pattern-background-desktop.svg);
