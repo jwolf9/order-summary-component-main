@@ -57,10 +57,6 @@ body {
 
 Want to get more comfortable with the Flexbox model and positioning elements
 
-- make sure accessibility issues are fixed
-- arrange format to meet design
-- fix html issues
-
 ## Author
 
 - Frontend Mentor - [@jwolf9](https://www.frontendmentor.io/profile/jwolf9)
